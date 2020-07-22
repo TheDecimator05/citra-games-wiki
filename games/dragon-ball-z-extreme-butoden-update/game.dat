@@ -27,3 +27,13 @@ cpu = "Intel Core 2 Duo E6750"
 gpu = "Nvidia Geforce GT 630"
 os = "Windows 10 15063"
 author = "MojoJojoDojo"
+
+[[testcases]]
+title = "000400000016CD00"
+compatibility = "5"
+date = "2020-07-22"
+version = "HEAD-408778a"
+cpu = "Intel Core i3 8100"
+gpu = "Nvidia Geforce GTX 1060 6GB "
+os = "Windows 10 19041"
+author = "TheDecimator05"
